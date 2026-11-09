@@ -41,8 +41,4 @@ C#
 UI Text
 Universal Render Pipeline (URP 2D)
 
-
-Aluna: Maria Clara Santos
-Universal Render Pipeline (URP 2D)
-
 Aluna: Maria Clara Santos
